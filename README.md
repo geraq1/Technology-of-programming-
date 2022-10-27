@@ -52,7 +52,6 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 
 
 ![as](https://user-images.githubusercontent.com/105608709/198399796-8e3ac7bf-8ba5-47f6-8fa3-ca01ed65b374.jpg)
-
 Рисунок 1
 
 
@@ -96,7 +95,6 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 
 
 ![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.007.png)
-
 Рисунок 3
 
 ##  Use case модель
@@ -108,7 +106,6 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 Use case модель (см.рис. 4)
 
 ![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.008.png)
-
 Рисунок 4 
 
 
