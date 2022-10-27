@@ -109,7 +109,7 @@ Use case модель (см.рис. 4)
 
 ![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.008.png)
 
-Рисунок 4 – Use case модель
+Рисунок 4 
 
 
 
