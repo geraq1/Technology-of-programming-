@@ -40,7 +40,7 @@ BPMN (англ. Business Process Model and Notation, нотация и моде�
 
 Знаки, использующиеся в модели:
 
-Начало![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.001.png)		Конец**![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.002.png) 		     Шлюз (или)  	![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.003.png)	            Таймер**![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.004.png)            
+Начало![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.001.png)		Конец![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.002.png) 		     Шлюз (или)  	![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.003.png)	            Таймер![](Aspose.Words.d321dc0a-afc4-4ce2-9588-b191deac4d38.004.png)            
 			
 
 
